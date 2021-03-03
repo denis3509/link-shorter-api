@@ -16,7 +16,7 @@
     "mongoose": "^5.7.1",
     "morgan": "~1.9.1",
     "nodemon": "^1.19.2",
-    "pug": "2.0.0-beta11",
+    "pug": "3.0.1",
     "short-hash": "^1.0.0",
     "shortid": "^2.2.15",
     "url-validator": "^2.0.3"
